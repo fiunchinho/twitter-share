@@ -1,0 +1,5 @@
+{
+	"require": {
+		"endroid/twitter": "1.*@dev"
+	}
+}
